@@ -1,0 +1,4 @@
+1 Leakage_contaminated_water
+2 low-nitrate
+3 No-event
+4 chlorination

@@ -1,0 +1,4 @@
+10 Good
+20 Poor
+30 Exellent
+40 VeryPoor
